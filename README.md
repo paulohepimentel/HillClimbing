@@ -33,5 +33,7 @@
 <p align="center">
     <img alt="Resultado2" title="Ackley" src="images/Ackley.png" width="45%" />
 </p>
+
 ---
+
 <p align="justify">O projeto foi desenvolvido, para fins didáticos, durante a disciplina de Meta-heurísticas do curso de Bacharelado em Ciência da Computação da UFV – Campus Florestal</p>
