@@ -13,7 +13,7 @@
 
 <p align="justify"><b>O algoritmo foi projetado para minimização.</b></p>
 
-<p align="justify">O algoritmo foi implementado em cima de duas funções matemáticas. Sendo a primeira a <b>Função Quadrática</b>, uma função matemática simples onde o gráfico dessa é uma simples parábola. A segunda função implementada é conhecida como <b>Função de Ackley, que possui um gráfico mais completo, esse é exibido a seguir.</b> </p>
+<p align="justify">O algoritmo foi implementado em cima de duas funções matemáticas. Sendo a primeira a <b>Função Quadrática</b>, uma função matemática simples onde o gráfico dessa é uma simples parábola. A segunda função implementada é conhecida como <b>Função de Ackley</b>, que possui um gráfico mais completo, esse é exibido a seguir.</p>
 
 <p align="center">
     <img alt="Funcao" title="Grafico" src="images/AckleyFunction.png" width="45%" />
